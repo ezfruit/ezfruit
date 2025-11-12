@@ -1,4 +1,16 @@
-# Hi, I'm Eric Zhang!
+# 👋 Hey, I'm Eric Zhang!
+
+### I'm a computer science student studying at the University at Buffalo.
+
+### An aspiring full-stack developer passionate about building software that helps tackle real-world problems through teamwork and client collaboration.
+
+### I’ve built multiple web applications that make use of databases for data storage and management.
+
+### I also like making video games as a side-hobby!
+
+<br/>
+
+## About Me
 
 - 🔭 I’m currently working on a navigation system for one of the University at Buffalo library.
 - 🌱 I’m currently learning more about C++.
@@ -7,6 +19,8 @@
 - 📫 How to reach me: You can email me at [ericz4322@gmail.com](ericz4322@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play pool 🎱 during my free time.
+
+<br/>
 
 ## 💻 Tech Stack
 
