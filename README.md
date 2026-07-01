@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Eric Zhang!
 
-### I'm a computer science student studying at the University at Buffalo.
+### I'm a Computer Science graduate from the University at Buffalo.
 
 ### An aspiring full-stack developer passionate about building software that helps tackle real-world problems through teamwork and client collaboration.
 
