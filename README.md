@@ -2,11 +2,9 @@
 
 ### I'm a Computer Science graduate from the University at Buffalo.
 
-### An aspiring full-stack developer passionate about building software that helps tackle real-world problems through teamwork and client collaboration.
+### A full-stack developer passionate about building software that helps tackle real-world problems through teamwork and client collaboration.
 
 ### I’ve built multiple web applications that make use of databases for data storage and management.
-
-### I also like making video games as a side-hobby!
 
 <br/>
 
@@ -55,8 +53,3 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### Game Development
-
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
