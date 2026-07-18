@@ -6,6 +6,8 @@
 
 ### I’ve built multiple web applications that make use of databases for data storage and management.
 
+### Check out my website! https://eric-zhang-dev.vercel.app/
+
 <br/>
 
 ## About Me
